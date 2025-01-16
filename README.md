@@ -1,5 +1,6 @@
 ## 가을하늘
-#### SSAFY 광주 1반
+#### SSAFY 광주 1반 
+<img src="http://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 ----
 
 1. #### 관심분야
@@ -20,12 +21,6 @@
 
 5. #### 좋아하는 영화
     - ##### 어라이벌
-
-6. #### 출신지
-    ##### 충청남도 태안
-
-7. #### 특이점
-    ##### 고등학교를 광주에서 다녀 3년간 광주에 살았던 경험이 있다.
 
 ----
 
