@@ -29,6 +29,5 @@
 print("잘 부탁드립니다")
 ```
 
-#### 링크
-[프로필](https://github.com/eulasky/FirstRepository)
+
 
